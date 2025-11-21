@@ -43,3 +43,27 @@ Advanced functions and analytical queries:
 - Advanced SQL Functions: Window functions, aggregations, UNION ALL, HAVING, etc.
 - Data Cleaning techniques
 - Analytical problem solving
+
+# 5. Key Insights from the Project
+
+- Inventory skew heavily toward certain categories
+- Weighted discount varies widely by category
+- Several products repeat across multiple categories
+- High-MRP items often remain unavailable
+- Estimated revenue highlights top-performing categories
+- Restock alerts reveal items with critically low availability<img 
+
+<img width="1683" height="477" alt="1" src="https://github.com/user-attachments/assets/7652f8e2-afef-4615-9739-a8f24b9f93d7" /> 
+<img width="1682" height="622" alt="2" src="https://github.com/user-attachments/assets/21d69388-6b8d-49bf-a8cb-602052f434f2" /> 
+<img width="1913" height="822" alt="3" src="https://github.com/user-attachments/assets/ca13c622-afbd-48ce-a40b-cb52e150586f" /> 
+<img width="1918" height="852" alt="4" src="https://github.com/user-attachments/assets/27c32277-bee3-49c5-9e1c-fdb82290c519" />
+<img width="1916" height="848" alt="5" src="https://github.com/user-attachments/assets/3f164a36-9d40-4068-839e-5f367133c07a" />
+<img width="1915" height="612" alt="6" src="https://github.com/user-attachments/assets/19140e53-4120-4eed-96c8-a5bc7b92ddbd" />
+<img width="1915" height="848" alt="7" src="https://github.com/user-attachments/assets/143bfe12-63d5-4eac-b50c-722a7f4317f9" />
+<img width="1918" height="575" alt="8" src="https://github.com/user-attachments/assets/326754fe-ed8b-47ee-a830-2806575871bb" />
+
+# 6. Contact
+
+- If you'd like to collaborate or provide feedback, feel free to reach out!
+- Gmail - girish27.gangula@gmail.com
+- Linkedin - Girishwar Gangula
